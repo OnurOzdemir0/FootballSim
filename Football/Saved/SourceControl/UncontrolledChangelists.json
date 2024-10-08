@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/Football/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal/Football/Content/ThirdPerson/Blueprints/BP_Footballer.uasset",
+				"C:/Unreal/Football/Content/Footballer/BP_Footballer.uasset",
+				"C:/Unreal/Football/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Unreal/Football/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/VC/OVRP2TVUZG0EZEBBZR19V7.uasset",
+				"C:/Unreal/Football/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N7/H7OY0LB8VY7EYC481Q6ALH.uasset",
+				"C:/Unreal/Football/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Unreal/Football/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/Unreal/Football/Content/Footballer/BP_Ball.uasset",
+				"C:/Unreal/Football/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FJ/LD2TXW1WZRY3637A4NKG69.uasset"
+			]
+		}
+	]
+}
